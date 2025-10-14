@@ -1,0 +1,13 @@
+
+KH01_LuxiyaXyCGRole2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Role2_zhuxi
+  rotate: false
+  xy: 2, 3
+  size: 419, 398
+  orig: 430, 398
+  offset: 0, 0
+  index: -1

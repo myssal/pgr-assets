@@ -1,0 +1,13 @@
+
+KH01_LuxiyaXyCGBg.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1733, 1000
+  orig: 1733, 1000
+  offset: 0, 0
+  index: -1
