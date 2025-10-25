@@ -14934,5 +14934,721 @@
   "rolewaferlihui/EFeitelieD01001.png": {
     "width": 1000,
     "height": 1262
+  },
+  "bgui/BgUiStory.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgstory/BgStory1266.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonBj.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgCommon3c.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1284.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgUiloadingDark.png": {
+    "width": 1920,
+    "height": 520
+  },
+  "bgui/BgFightLoading2.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading65.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory965.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading66.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFight1.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory905.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading61.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading63.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommon204.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "bgui/BgFightLoading68.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading69.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgCustom02.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgFightLoading8.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading77.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading73.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonNone4.png": {
+    "width": 256,
+    "height": 8
+  },
+  "bgui/BgNewCommonNone3.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonNone2.png": {
+    "width": 801,
+    "height": 821
+  },
+  "bgui/BgNewCommon2.png": {
+    "width": 2048,
+    "height": 922
+  },
+  "bgui/BgFightLoading6.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading4.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading15.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading17.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading10.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1291.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading12.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonLilithMask.png": {
+    "width": 2048,
+    "height": 922
+  },
+  "bgui/FailedBg.png": {
+    "width": 1280,
+    "height": 720
+  },
+  "bgui/BgNewCommonv0380Bg05.png": {
+    "width": 512,
+    "height": 512
+  },
+  "bgui/BgFightLoading18.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonv0380Bg04.png": {
+    "width": 512,
+    "height": 1024
+  },
+  "bgui/BgFightLoading19.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonv0380Bg07.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonv0380Bg06.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonv0380Bg01.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonv0380Title01.png": {
+    "width": 512,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0380Bg03.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonNone.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonv0380Bg02.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgArenaWarzone.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgstory/BgStory902.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgArena1.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/PirchaseBg01.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgstory/BgStory1276.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/PirchaseBg02.png": {
+    "width": 768,
+    "height": 913
+  },
+  "bgui/BgCustom01.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommon.png": {
+    "width": 2048,
+    "height": 993
+  },
+  "bgstory/BgStory1295.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading24.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1278.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading25.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading21.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading29.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1279.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading47.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading40.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgTanchuang.png": {
+    "width": 64,
+    "height": 32
+  },
+  "bgui/BgFightLoading41.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading42.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading43.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonV0350BgTitle.png": {
+    "width": 512,
+    "height": 256
+  },
+  "bgstory/BgStory1297.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading35.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading37.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading30.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading31.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading33.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgFightLoading38.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1296.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/Bgstory621.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1298.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1270.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgstory/BgStory1282.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "rolewaferbag/EDaerwenI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EShashibiyaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ETulingI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EBuranaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EXialuodiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EBuenI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAdaifuI02002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EJpWeilaSummerB01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EYiefuliemofuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/E5HalfAnniverI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKaiselinI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EChupaNanamiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELifuZhongqiuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EBiankaZhounianI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELisailiuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EFanniI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAikeI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EDafenqiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EModeerI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELawsonI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EXinniankalieI01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EChupaBiancaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EFeilieteI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EXigenaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELunaMengzhanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELizhounianI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ENabatiLuciaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EQiaqiaHanyingl01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EQiaqiaQul01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EJpLivlizhuangB01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKeatsI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ESipeierI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EChangwuziI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EHervorI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EHerschellI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKlenovaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EManyinsitanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ENimizi01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAidishengI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAikesupeiliI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EXueLaiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELukeleiqiyaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EbarceloI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EGuiniweiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELongmeierI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKanninganI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EYilishabaiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EGouliangI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EHeermanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EBadunI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EJiboanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKuluomuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ENabatiLeeI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EJeanneI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EYileinuoyaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EWuanjunI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAlphonseI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EHaisenbaoI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EFulanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAjimideI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKFC01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EGeluodaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAliceI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKeya01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ESothothI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EMaerkeI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELemeiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ENabatiLivI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELiewenhukeI01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAdaifuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EDiseerI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ELilianaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAifuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAixiaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EFeitelieI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EHannaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EMozateI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKangdelinaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EWildeI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EYounimeiteI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EBudika01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EKFC02002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAiyinsitanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ESamandaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ECerberusI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ENikeersenI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ECleopatraI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EYuanxiaoluxiyaI01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EShengdanlifuI01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EDekeduoI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EListonI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EHeraclitusI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EBadunI03002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/E5AnniverI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EFuertaiI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/ETifaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EAdaifuYYI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/EZuwenyuanI01001.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferbag/E6AnniverI01001.png": {
+    "width": 504,
+    "height": 225
   }
 }
