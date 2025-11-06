@@ -1,0 +1,13 @@
+
+GodLifuActivityV40Fn_s1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: xy
+Fn_Black
+  rotate: false
+  xy: 2, 2
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
