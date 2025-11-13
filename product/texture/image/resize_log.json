@@ -16454,5 +16454,69 @@
   "bgcomic/v400liv/V400_05_03.png": {
     "width": 1920,
     "height": 1080
+  },
+  "rolewaferbag/EPoincareI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "bgui/BgNewCommonv0400Bg09.png": {
+    "width": 1024,
+    "height": 256
+  },
+  "rolewaferlihui/EPoincareD01002.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferbag/ENatashaI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferlihui/ENatashaD01001.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/ENatashaD01003.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/EPoincareD01001.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/ENatashaD01002.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0400Bg05.png": {
+    "width": 2048,
+    "height": 1024
+  },
+  "bgui/BgNewCommonv0400Bg04.png": {
+    "width": 1024,
+    "height": 512
+  },
+  "bgui/BgNewCommonv0400Bg01.png": {
+    "width": 1024,
+    "height": 512
+  },
+  "bgui/BgNewCommonv0400Bg03.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "bgui/BgNewCommonv0400Bg02.png": {
+    "width": 1024,
+    "height": 1024
+  },
+  "rolewaferlihui/EPoincareD01003.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0400Bg11.png": {
+    "width": 1024,
+    "height": 512
+  },
+  "bgui/BgNewCommonv0400Bg10.png": {
+    "width": 1024,
+    "height": 256
   }
 }
