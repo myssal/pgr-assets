@@ -16518,5 +16518,341 @@
   "bgui/BgNewCommonv0400Bg10.png": {
     "width": 1024,
     "height": 256
+  },
+  "rolecharacterbig/RoleCharacterBigR3LamiyaNormal01HX.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4LiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR5SailinnaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4WeilaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigLifuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2BuouxiongNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4LuxiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LilithNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4LunaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3HanyingNormal01HX.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4DubianNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LuxiyaaerfaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2LuxiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3KuluomuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigDubianNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3CibeizheNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2PulaoNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3WeiluonikaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3DubianNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/ShenweiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2KamuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2LifuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2JietaweiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4KalieninaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LuosaitaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4LifuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3YongyechaoNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2BazhiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2HakamaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3WanshiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3SailinnaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/Yongyechaonormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2BulijiteNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2XiezouNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR5LuxiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3TwobNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2NuoanNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2WeilaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3QuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LiangNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4KalieninaNormal02.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2DandingNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigLiangNomal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4LifuNormal02.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4BiankaKnightNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2NuoketiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2ChangyuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2BlackrockNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigKalieninaNomal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LamiyaKnightNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LunaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR6YongyechaoNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LamiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3KalieninaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3TwentyoneNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR5LifuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3LifuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3ShenweiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/V3200luxiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3NinesNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4BiankaNormal01HX.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2HanyingNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3WeilaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2TwentyoneNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR5BiankaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2WeijierNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR6LuxiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2KuluomuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3YalishaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3ATwoNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4BiankaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2WanshiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2SufeiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigLuxiyaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2QuNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/R5YongyechaoNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3AilaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigAilaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3HanyingNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2LuolanNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigOlisuoNomal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2BangbinataNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR2SailinnaNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR3BiankaNormal01.png": {
+    "width": 1000,
+    "height": 1080
   }
 }
