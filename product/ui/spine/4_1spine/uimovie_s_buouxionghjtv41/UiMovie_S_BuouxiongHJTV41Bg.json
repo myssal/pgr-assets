@@ -1,0 +1,248 @@
+{
+"skeleton": { "hash": "jWufsbynllezUI4ddfwVzmoqD4w", "spine": "3.8.99", "x": -1921, "y": -1081, "width": 3842, "height": 2853 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "zong", "parent": "root" },
+	{ "name": "Bg", "parent": "zong", "length": 69.57 },
+	{ "name": "Bg_guang3", "parent": "Bg", "length": 923.51, "rotation": 116.72, "x": 1773.48, "y": 461.89 },
+	{ "name": "Bg_guang2", "parent": "Bg", "length": 1003.13, "rotation": 128.53, "x": 1263.67, "y": 375.29 },
+	{ "name": "Bg_guang1", "parent": "Bg", "length": 1258.93, "rotation": 142.64, "x": 673.68, "y": 6.52 }
+],
+"slots": [
+	{ "name": "Bg_guangdian1", "bone": "Bg", "attachment": "Bg_guangdian1" },
+	{ "name": "Bg_guangdian3", "bone": "Bg", "attachment": "Bg_guangdian3", "blend": "additive" },
+	{ "name": "Bg_guangdian3b", "bone": "Bg", "attachment": "Bg_guangdian3", "blend": "additive" },
+	{ "name": "Bg_guangdian2", "bone": "Bg", "attachment": "Bg_guangdian2" },
+	{ "name": "Bg_guangdian2b", "bone": "Bg", "attachment": "Bg_guangdian2" },
+	{ "name": "Bg_guang3", "bone": "Bg_guang3", "attachment": "Bg_guang3" },
+	{ "name": "Bg_guang2", "bone": "Bg_guang2", "attachment": "Bg_guang2" },
+	{ "name": "Bg_guang1", "bone": "Bg_guang1", "attachment": "Bg_guang1" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Bg_guang1": {
+				"Bg_guang1": {
+					"type": "mesh",
+					"uvs": [ 1, 0.88216, 1, 1, 0.93008, 1, 0, 0.42145, 0, 0, 0.34706, 0 ],
+					"triangles": [ 3, 4, 5, 2, 3, 5, 0, 2, 5, 2, 0, 1 ],
+					"vertices": [ 1, 5, 21.7, -88.28, 1, 1, 5, -54.67, 11.76, 1, 1, 5, 17.85, 67.13, 1, 1, 5, 1357.53, 312.56, 1, 1, 5, 1630.68, -45.19, 1, 1, 5, 1270.69, -320.03, 1 ],
+					"hull": 6
+				}
+			},
+			"Bg_guang2": {
+				"Bg_guang2": {
+					"type": "mesh",
+					"uvs": [ 1, 0.86109, 1, 1, 0.85192, 1, 0, 0.3479, 0, 0, 0.42683, 0 ],
+					"triangles": [ 3, 4, 5, 3, 5, 0, 2, 3, 0, 2, 0, 1 ],
+					"vertices": [ 1, 4, 64.3, -109.15, 1, 1, 4, -80.88, 6.46, 1, 1, 4, 16.43, 128.66, 1, 1, 4, 1257.83, 289.07, 1, 1, 4, 1621.43, -0.47, 1, 1, 4, 1340.92, -352.74, 1 ],
+					"hull": 6
+				}
+			},
+			"Bg_guang3": {
+				"Bg_guang3": {
+					"type": "mesh",
+					"uvs": [ 1, 0.86422, 1, 1, 0.83381, 1, 0, 0.31611, 0, 0, 0.56495, 0 ],
+					"triangles": [ 3, 4, 5, 3, 5, 0, 2, 3, 0, 2, 0, 1 ],
+					"vertices": [ 1, 3, 110.65, -101.07, 1, 1, 3, -52.96, -18.7, 1, 1, 3, 5.33, 97.08, 1, 1, 3, 1121.81, 263.16, 1, 1, 3, 1502.7, 71.41, 1, 1, 3, 1304.56, -322.19, 1 ],
+					"hull": 6
+				}
+			},
+			"Bg_guangdian1": {
+				"Bg_guangdian1": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 1, 2, 3, 1, 3, 0 ],
+					"vertices": [ 1921, -1081, -1921, -1081, -1921, 1081, 1921, 1081 ],
+					"hull": 4
+				}
+			},
+			"Bg_guangdian2": {
+				"Bg_guangdian2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0.75882, 0.18452, 0.25734, 0.60253, 0, 1, 0 ],
+					"triangles": [ 0, 1, 2, 4, 5, 0, 3, 4, 0, 0, 2, 3 ],
+					"vertices": [ 1921, -1081, -118, -1081, -118, -690.3, 258.24, 122.11, 1110.56, 539, 1921, 539 ],
+					"hull": 6
+				}
+			},
+			"Bg_guangdian2b": {
+				"Bg_guangdian2": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0.75882, 0.18452, 0.25734, 0.60253, 0, 1, 0 ],
+					"triangles": [ 0, 1, 2, 4, 5, 0, 3, 4, 0, 0, 2, 3 ],
+					"vertices": [ 1921, -1081, -118, -1081, -118, -690.3, 258.24, 122.11, 1110.56, 539, 1921, 539 ],
+					"hull": 6
+				}
+			},
+			"Bg_guangdian3": {
+				"Bg_guangdian3": {
+					"type": "mesh",
+					"uvs": [ 0.44927, 0.06751, 0.71911, 0.22881, 0.88473, 0.54045, 0.76354, 0.71171, 1, 1, 0, 1, 0, 0, 0.21017, 0 ],
+					"triangles": [ 3, 1, 2, 5, 6, 7, 5, 7, 0, 0, 1, 3, 5, 0, 3, 5, 3, 4 ],
+					"vertices": [ -769.41, 857.71, -78.36, 522.53, 345.78, -125.07, 35.43, -480.93, 641, -1080, -1920, -1080, -1920, 998, -1381.76, 998 ],
+					"hull": 8
+				}
+			},
+			"Bg_guangdian3b": {
+				"Bg_guangdian3": {
+					"type": "mesh",
+					"uvs": [ 0.44927, 0.06751, 0.71911, 0.22881, 0.88473, 0.54045, 0.76354, 0.71171, 1, 1, 0, 1, 0, 0, 0.21017, 0 ],
+					"triangles": [ 3, 1, 2, 5, 6, 7, 5, 7, 0, 0, 1, 3, 5, 0, 3, 5, 3, 4 ],
+					"vertices": [ -769.41, 857.71, -78.36, 522.53, 345.78, -125.07, 35.43, -480.93, 641, -1080, -1920, -1080, -1920, 998, -1381.76, 998 ],
+					"hull": 8
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"idle": {
+		"slots": {
+			"Bg_guang1": {
+				"color": [
+					{ "color": "ffffff52", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333, "color": "ffffff52" }
+				]
+			},
+			"Bg_guang2": {
+				"color": [
+					{ "color": "ffffffc5", "curve": 0.359, "c2": 0.43, "c3": 0.756 },
+					{ "time": 1.6667, "color": "ffffff52", "curve": 0.25, "c3": 0.75 },
+					{ "time": 4.3333, "color": "ffffffff", "curve": 0.26, "c3": 0.618, "c4": 0.44 },
+					{ "time": 5.3333, "color": "ffffffc5" }
+				]
+			},
+			"Bg_guang3": {
+				"color": [
+					{ "color": "ffffffdf", "curve": 0.379, "c2": 0.6, "c3": 0.724 },
+					{ "time": 0.6667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "color": "ffffff52", "curve": 0.242, "c3": 0.667, "c4": 0.67 },
+					{ "time": 5.3333, "color": "ffffffdf" }
+				]
+			},
+			"Bg_guangdian2": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3, "color": "ffffff00" }
+				]
+			},
+			"Bg_guangdian2b": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333, "color": "ffffffff" }
+				]
+			},
+			"Bg_guangdian3": {
+				"color": [
+					{ "color": "ffffff00" },
+					{ "time": 2.6667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3, "color": "ffffff00" }
+				]
+			},
+			"Bg_guangdian3b": {
+				"color": [
+					{ "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6333, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 2.6667, "color": "ffffff00", "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"Bg_guang3": {
+				"rotate": [
+					{ "angle": -5.3, "curve": 0.379, "c2": 0.6, "c3": 0.724 },
+					{ "time": 0.6667, "angle": -7.16, "curve": 0.25, "c3": 0.75 },
+					{ "time": 3.3333, "angle": 2.92, "curve": 0.242, "c3": 0.667, "c4": 0.67 },
+					{ "time": 5.3333, "angle": -5.3 }
+				]
+			},
+			"Bg_guang2": {
+				"rotate": [
+					{ "angle": -8.85, "curve": 0.359, "c2": 0.43, "c3": 0.756 },
+					{ "time": 1.6667, "angle": -3.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 4.3333, "angle": -11.6, "curve": 0.26, "c3": 0.618, "c4": 0.44 },
+					{ "time": 5.3333, "angle": -8.85 }
+				]
+			},
+			"Bg_guang1": {
+				"rotate": [
+					{ "angle": 3.34, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667, "angle": -16.43, "curve": 0.25, "c3": 0.75 },
+					{ "time": 5.3333, "angle": 3.34 }
+				]
+			}
+		},
+		"deform": {
+			"default": {
+				"Bg_guangdian2": {
+					"Bg_guangdian2": [
+						{},
+						{
+							"time": 5.3,
+							"offset": 2,
+							"vertices": [ -81.11963, 0, -116.60985, 197.73047, -116.60984, 273.78027, -35.48996, 202.79993, 3.0E-5, 202.79993 ],
+							"curve": "stepped"
+						},
+						{ "time": 5.3333 }
+					]
+				},
+				"Bg_guangdian2b": {
+					"Bg_guangdian2": [
+						{
+							"offset": 2,
+							"vertices": [ -40.81491, 0, -58.67162, 99.48703, -58.67162, 137.75108, -17.85659, 102.0377, 1.0E-5, 102.0377 ]
+						},
+						{
+							"time": 2.6333,
+							"offset": 2,
+							"vertices": [ -81.11963, 0, -116.60985, 197.73047, -116.60984, 273.78027, -35.48996, 202.79993, 3.0E-5, 202.79993 ],
+							"curve": "stepped"
+						},
+						{ "time": 2.6667 },
+						{
+							"time": 5.3333,
+							"offset": 2,
+							"vertices": [ -40.81491, 0, -58.67162, 99.48703, -58.67162, 137.75108, -17.85659, 102.0377, 1.0E-5, 102.0377 ]
+						}
+					]
+				},
+				"Bg_guangdian3": {
+					"Bg_guangdian3": [
+						{},
+						{
+							"time": 5.3,
+							"vertices": [ 73.33522, 127.11377, 73.33522, 127.11377, 73.33522, 127.11377, 73.33522, 127.11377, 73.33521, 0, 0, 0, 2.0E-5, 127.11377, 48.89015, 127.11377 ],
+							"curve": "stepped"
+						},
+						{ "time": 5.3333 }
+					]
+				},
+				"Bg_guangdian3b": {
+					"Bg_guangdian3": [
+						{
+							"vertices": [ 36.89823, 63.95662, 36.89823, 63.95662, 36.89823, 63.95662, 36.89823, 63.95662, 36.89822, 0, 0, 0, 1.0E-5, 63.95662, 24.59882, 63.95662 ]
+						},
+						{
+							"time": 2.6333,
+							"vertices": [ 73.33522, 127.11377, 73.33522, 127.11377, 73.33522, 127.11377, 73.33522, 127.11377, 73.33521, 0, 0, 0, 2.0E-5, 127.11377, 48.89015, 127.11377 ],
+							"curve": "stepped"
+						},
+						{ "time": 2.6667 },
+						{
+							"time": 5.3333,
+							"vertices": [ 36.89823, 63.95662, 36.89823, 63.95662, 36.89823, 63.95662, 36.89823, 63.95662, 36.89822, 0, 0, 0, 1.0E-5, 63.95662, 24.59882, 63.95662 ]
+						}
+					]
+				}
+			}
+		}
+	}
+}
+}
