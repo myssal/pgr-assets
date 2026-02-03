@@ -18690,5 +18690,665 @@
   "bgui/BgNewCommonv0402Bg05.png": {
     "width": 2048,
     "height": 1030
+  },
+  "uiautowindow/PosterLunaEffectPfV215.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuxiyaEffectPfV211.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuxiyaEffectPfV215.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV134.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowSailinna.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterYalishaEffectPfV213.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMoeWarV128.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowRaceV400.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterCibeizheEffectPfV400.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowJietou.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterV306pv.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV218.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV401.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/GachaPosterLuxiyaEffectPfV308.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterAlphaEffectPfV207.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterPvV402.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBiankaEffectPfV402.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterPvV400.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterQuEffectPfV307.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterQuEffectPfV301.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterWeilaPfV202.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowENV304.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV213.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBiancaEffectpfV207.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV402.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLmiyaEffectPfV303.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLiEffectPfV206.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSuperWeilaEffectPfV209.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBiancaBanShengV130.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowJingjihuo.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowEn27fuke.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV220.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowEnReSummer30.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuoZiV131.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV211En.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/GachaPosterLuxiyaEffectPfV302.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/Poster3In1EffectPfV303.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowLiveShow1V130.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterShenjiEffectPfV401.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV215.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterWanshiEffectPfV307.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterS21EffectPfV209.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV209.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/Poster4In1EffectPfV308.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBangbinataEffectPfV212.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV217.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowKrTuzhuangFuke.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSailinnaEffectPfV302.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterDubianEffectPfV217.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV301.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBiankaEffectPfV212.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterKalieninaEffectPfV216.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowEn1YearAnniversary.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/KujiequTipsWindow.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBuouxiongEffectPfV401.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLiPfV127.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV302.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSuperHanyingEffectPfV213.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterKuromuV132.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterKalieninaEffectPfV206a.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV202.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSuperQuEffectPfV209.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterWeiluonikaEffectPfV308.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuxiya2EffectPfV303.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV133.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterChaolifuEffectPfV210.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV130.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV304.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterNanamiEffectPfV304.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV306.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSuperBiancaPfV201.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLamiaEffectPfV206.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterWanhuaEffectPfV208.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV204.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterCIbeizheEffectPfV300.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterRegression3.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV210new2.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV330.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowYayuSummer.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV206.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/SailinnaHjaAutoWindowV36Go.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterCibeizheEffectPfV305.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterQishiEffectPfV217.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSailinnaPfV200.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowLiveShow2V130.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterHanyingEffectPfV302.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuosaitaEffectPfV402.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV219.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLifuEffectPfV400.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowLucia2.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuciaV135.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowLucia1.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowLifuSummer.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuciaV136.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowQu1.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuxiyaPfV203.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLunaEffectPfv211.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLainaPfV205.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV211.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowQu2.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV400.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV221.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLunaEffectPfV300.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg9.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/Poster4In1EffectPfV305.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowPulaoIdolV129.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterKaliePfV201.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterVelaV130.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV212.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowQingjian.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterTwentyoneEffectPfV214.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV222.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterQishiEffectPfV402.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowWansheng.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterWeilaEffectPfV304.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuxiyaEffectPfV302.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV308.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLuxiyaEffectPfV306.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterEchoEffectPfV305.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBgChromeVampire.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV214.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV208.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowTianci.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSuperBiancaPfV201V2.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterHanyingEffectPfV215.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV216.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterCibeizheEffectPfV400a.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV300.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/SailinnaHjaAutoWindowV36Title.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLamiaEffectPfV300.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV203.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBgBack.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBiankaEffectPfV306.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterBiankaEffectPfV303.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowyazhu2.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV131.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg26.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg27.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/SailinnaHjaAutoWindowV36Name.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLilithEffectPfV303.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg23.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLilithEffectPfV308.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg36.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV305.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg35.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg32.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg29.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg33.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg30.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg31.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg38.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowBg39.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowENTuzhuangFuke.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV307.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterSailinnaEffectPfV206.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV205.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowMainV128.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/UiAutoWindowQishiSummer.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV132.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterMainV207.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterLunaPfV200.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterAylaPfV214.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonv0401Bg04.png": {
+    "width": 2048,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0401BgTittle.png": {
+    "width": 1024,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0401Bg03.png": {
+    "width": 2048,
+    "height": 1024
   }
 }
