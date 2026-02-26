@@ -19350,5 +19350,161 @@
   "bgui/BgNewCommonv0401Bg03.png": {
     "width": 2048,
     "height": 1024
+  },
+  "bgui/BgNewCommonv0403ShuBg06.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403ShuBg02.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403ShuBg07.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403TitleBg08.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403ShuBg03.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403TitleBg01.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403TitleBg04.png": {
+    "width": 256,
+    "height": 256
+  },
+  "rolewaferbag/EBulgakovI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "bgui/BgNewCommonv0403TitleBg07.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0402Bg03.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonv0402Bg02.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonv0402Bg01.png": {
+    "width": 2048,
+    "height": 922
+  },
+  "bgui/BgNewCommonv0403ShuBg04.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0402Bg04.png": {
+    "width": 1148,
+    "height": 711
+  },
+  "rolewaferlihui/EBulgakovD01003.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0403ShuBg05.png": {
+    "width": 256,
+    "height": 256
+  },
+  "rolewaferbag/EBenShengI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "bgstory/BgStory1419.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "bgui/BgNewCommonv0402Title01.png": {
+    "width": 838,
+    "height": 420
+  },
+  "rolewaferbag/ENiumuI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "bgui/BgNewCommonv0403TitleBg03.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403ShuBg01.png": {
+    "width": 256,
+    "height": 256
+  },
+  "rolewaferlihui/EBenShengD01003.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0403TitleBg06.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403ShuBg08.png": {
+    "width": 256,
+    "height": 256
+  },
+  "rolewaferlihui/EBulgakovD01002.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0403Bg02.png": {
+    "width": 2048,
+    "height": 1152
+  },
+  "bgui/BgNewCommonv0403Bg03.png": {
+    "width": 1789,
+    "height": 1127
+  },
+  "bgui/BgNewCommonv0403Bg01.png": {
+    "width": 2048,
+    "height": 1287
+  },
+  "rolewaferlihui/ENiumuD01001.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0403Bg04.png": {
+    "width": 1750,
+    "height": 983
+  },
+  "rolewaferlihui/ENiumuD01002.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0403ShuBg09.png": {
+    "width": 256,
+    "height": 256
+  },
+  "bgui/BgNewCommonv0403TitleBg02.png": {
+    "width": 256,
+    "height": 256
+  },
+  "rolewaferlihui/EBenShengD01002.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "bgui/BgNewCommonv0403TitleBg05.png": {
+    "width": 256,
+    "height": 256
+  },
+  "rolewaferlihui/EBenShengD01001.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/ENiumuD01003.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/EBulgakovD01001.png": {
+    "width": 1000,
+    "height": 1262
   }
 }
