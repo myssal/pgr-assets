@@ -1,0 +1,181 @@
+
+V43Activity_NietiyaBg.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bg1
+  rotate: false
+  xy: 2, 497
+  size: 961, 346
+  orig: 961, 346
+  offset: 0, 0
+  index: -1
+Bg2
+  rotate: true
+  xy: 1351, 474
+  size: 961, 344
+  orig: 961, 344
+  offset: 0, 0
+  index: -1
+Bg_Fx1
+  rotate: false
+  xy: 2, 845
+  size: 1348, 590
+  orig: 1348, 590
+  offset: 0, 0
+  index: -1
+Bg_Shu_10
+  rotate: 180
+  xy: 641, 3
+  size: 297, 186
+  orig: 297, 204
+  offset: 0, 0
+  index: -1
+Bg_Shu_11
+  rotate: 180
+  xy: 822, 163
+  size: 414, 211
+  orig: 414, 211
+  offset: 0, 0
+  index: -1
+Bg_Shu_3
+  rotate: false
+  xy: 2, 48
+  size: 349, 221
+  orig: 349, 221
+  offset: 0, 0
+  index: -1
+Bg_Shu_4
+  rotate: false
+  xy: 1237, 57
+  size: 323, 188
+  orig: 323, 248
+  offset: 0, 35
+  index: -1
+Bg_Shu_5
+  rotate: false
+  xy: 1677, 230
+  size: 166, 269
+  orig: 191, 298
+  offset: 25, 14
+  index: -1
+Bg_Shu_6
+  rotate: 270
+  xy: 352, 49
+  size: 202, 287
+  orig: 226, 312
+  offset: 0, 13
+  index: -1
+Bg_Shu_7
+  rotate: false
+  xy: 526, 218
+  size: 384, 279
+  orig: 384, 293
+  offset: 0, 14
+  index: -1
+Bg_Shu_8
+  rotate: false
+  xy: 940, 9
+  size: 307, 134
+  orig: 307, 134
+  offset: 0, 0
+  index: -1
+Bg_Shu_9
+  rotate: true
+  xy: 1697, 926
+  size: 221, 149
+  orig: 264, 188
+  offset: 25, 24
+  index: -1
+Bg_qiang
+  rotate: true
+  xy: 964, 386
+  size: 457, 271
+  orig: 457, 271
+  offset: 0, 0
+  index: -1
+Bg_qiang2
+  rotate: false
+  xy: 1237, 245
+  size: 438, 227
+  orig: 438, 227
+  offset: 0, 0
+  index: -1
+Bg_yueliang
+  rotate: false
+  xy: 2, 272
+  size: 523, 224
+  orig: 523, 224
+  offset: 0, 0
+  index: -1
+Fx_B_15
+  rotate: false
+  xy: 1697, 1148
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1
+Role_renwu1
+  rotate: false
+  xy: 1697, 1300
+  size: 124, 131
+  orig: 124, 131
+  offset: 0, 0
+  index: -1
+Role_renwu2
+  rotate: false
+  xy: 1754, 100
+  size: 99, 127
+  orig: 100, 128
+  offset: 1, 1
+  index: -1
+Role_renwu3
+  rotate: false
+  xy: 1562, 43
+  size: 190, 200
+  orig: 191, 201
+  offset: 0, 1
+  index: -1
+Role_renwu4
+  rotate: false
+  xy: 1237, 710
+  size: 103, 133
+  orig: 103, 134
+  offset: 0, 0
+  index: -1
+Role_renwu5
+  rotate: false
+  xy: 912, 398
+  size: 38, 97
+  orig: 38, 98
+  offset: 0, 1
+  index: -1
+Role_renwu6
+  rotate: false
+  xy: 1237, 474
+  size: 81, 230
+  orig: 81, 230
+  offset: 0, 0
+  index: -1
+Role_renwu7
+  rotate: false
+  xy: 526, 467
+  size: 35, 28
+  orig: 35, 28
+  offset: 0, 0
+  index: -1
+Role_renwu8
+  rotate: true
+  xy: 1697, 499
+  size: 237, 129
+  orig: 238, 129
+  offset: 1, 0
+  index: -1
+Role_renwu9
+  rotate: true
+  xy: 1697, 738
+  size: 186, 155
+  orig: 187, 155
+  offset: 0, 0
+  index: -1
