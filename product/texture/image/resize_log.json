@@ -20154,5 +20154,29 @@
   "bgcomic/v430nirvatia/V430_01_12.png": {
     "width": 1920,
     "height": 1080
+  },
+  "rolecharacterbig/RoleCharacterBigR4ShenweiNormal01.png": {
+    "width": 1000,
+    "height": 1080
+  },
+  "uiarchivestorybanner/Login56.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "rolewaferbag/EFeynmanI01002.png": {
+    "width": 504,
+    "height": 225
+  },
+  "rolewaferlihui/EFeynmanD01001.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/EFeynmanD01003.png": {
+    "width": 1000,
+    "height": 1262
+  },
+  "rolewaferlihui/EFeynmanD01002.png": {
+    "width": 1000,
+    "height": 1262
   }
 }
