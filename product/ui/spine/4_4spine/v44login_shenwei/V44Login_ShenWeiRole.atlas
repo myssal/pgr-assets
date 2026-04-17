@@ -1,0 +1,517 @@
+
+V44Login_ShenWeiRole.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Role_shenwei_1
+  rotate: true
+  xy: 698, 75
+  size: 135, 344
+  orig: 135, 344
+  offset: 0, 0
+  index: -1
+Role_shenwei_10
+  rotate: false
+  xy: 503, 16
+  size: 195, 130
+  orig: 195, 130
+  offset: 0, 0
+  index: -1
+Role_shenwei_11
+  rotate: 270
+  xy: 1491, 59
+  size: 135, 227
+  orig: 135, 227
+  offset: 0, 0
+  index: -1
+Role_shenwei_12
+  rotate: false
+  xy: 702, 657
+  size: 82, 150
+  orig: 82, 150
+  offset: 0, 0
+  index: -1
+Role_shenwei_13
+  rotate: false
+  xy: 842, 3
+  size: 242, 184
+  orig: 242, 184
+  offset: 0, 0
+  index: -1
+Role_shenwei_14
+  rotate: true
+  xy: 250, 405
+  size: 181, 184
+  orig: 181, 184
+  offset: 0, 0
+  index: -1
+Role_shenwei_15
+  rotate: false
+  xy: 639, 1119
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+Role_shenwei_17
+  rotate: false
+  xy: 2, 773
+  size: 121, 154
+  orig: 121, 154
+  offset: 0, 0
+  index: -1
+Role_shenwei_18
+  rotate: 270
+  xy: 1521, 150
+  size: 204, 459
+  orig: 204, 467
+  offset: 0, 8
+  index: -1
+Role_shenwei_19
+  rotate: true
+  xy: 1833, 372
+  size: 131, 184
+  orig: 131, 184
+  offset: 0, 0
+  index: -1
+Role_shenwei_2
+  rotate: true
+  xy: 1269, 63
+  size: 175, 290
+  orig: 175, 298
+  offset: 0, 0
+  index: -1
+Role_shenwei_20
+  rotate: false
+  xy: 963, 688
+  size: 137, 111
+  orig: 137, 111
+  offset: 0, 0
+  index: -1
+Role_shenwei_21
+  rotate: true
+  xy: 1177, 942
+  size: 265, 541
+  orig: 282, 541
+  offset: 0, 0
+  index: -1
+Role_shenwei_23
+  rotate: false
+  xy: 1645, 577
+  size: 125, 77
+  orig: 125, 80
+  offset: 0, 3
+  index: -1
+Role_shenwei_24
+  rotate: 270
+  xy: 179, 1000
+  size: 178, 243
+  orig: 184, 250
+  offset: 0, 7
+  index: -1
+Role_shenwei_25
+  rotate: false
+  xy: 722, 212
+  size: 184, 161
+  orig: 184, 161
+  offset: 0, 0
+  index: -1
+Role_shenwei_26
+  rotate: true
+  xy: 2, 223
+  size: 431, 488
+  orig: 431, 488
+  offset: 0, 0
+  index: -1
+Role_shenwei_27
+  rotate: false
+  xy: 981, 341
+  size: 120, 152
+  orig: 120, 152
+  offset: 0, 0
+  index: -1
+Role_shenwei_28
+  rotate: false
+  xy: 899, 1238
+  size: 37, 130
+  orig: 37, 130
+  offset: 0, 0
+  index: -1
+Role_shenwei_29
+  rotate: false
+  xy: 1928, 795
+  size: 94, 122
+  orig: 94, 122
+  offset: 0, 0
+  index: -1
+Role_shenwei_3
+  rotate: true
+  xy: 37, 83
+  size: 147, 330
+  orig: 147, 330
+  offset: 0, 0
+  index: -1
+Role_shenwei_30
+  rotate: false
+  xy: 1408, 155
+  size: 99, 119
+  orig: 99, 119
+  offset: 0, 0
+  index: -1
+Role_shenwei_32
+  rotate: true
+  xy: 1225, 262
+  size: 193, 283
+  orig: 193, 283
+  offset: 0, 0
+  index: -1
+Role_shenwei_33
+  rotate: true
+  xy: 369, 50
+  size: 171, 189
+  orig: 171, 197
+  offset: 0, 8
+  index: -1
+Role_shenwei_34
+  rotate: true
+  xy: 164, 7
+  size: 164, 203
+  orig: 164, 203
+  offset: 0, 0
+  index: -1
+Role_shenwei_35
+  rotate: false
+  xy: 1857, 1223
+  size: 133, 48
+  orig: 133, 48
+  offset: 0, 0
+  index: -1
+Role_shenwei_36
+  rotate: true
+  xy: 1387, 1544
+  size: 155, 167
+  orig: 155, 167
+  offset: 0, 0
+  index: -1
+Role_shenwei_37
+  rotate: false
+  xy: 214, 1065
+  size: 172, 192
+  orig: 172, 192
+  offset: 0, 0
+  index: -1
+Role_shenwei_38
+  rotate: false
+  xy: 976, 1645
+  size: 13, 54
+  orig: 13, 54
+  offset: 0, 0
+  index: -1
+Role_shenwei_39
+  rotate: 180
+  xy: 605, 767
+  size: 161, 142
+  orig: 161, 142
+  offset: 0, 0
+  index: -1
+Role_shenwei_4
+  rotate: false
+  xy: 757, 374
+  size: 342, 154
+  orig: 342, 154
+  offset: 0, 0
+  index: -1
+Role_shenwei_40
+  rotate: false
+  xy: 1998, 1513
+  size: 44, 87
+  orig: 44, 87
+  offset: 0, 0
+  index: -1
+Role_shenwei_41
+  rotate: false
+  xy: 900, 1636
+  size: 74, 63
+  orig: 74, 63
+  offset: 0, 0
+  index: -1
+Role_shenwei_42
+  rotate: false
+  xy: 1570, 1631
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+Role_shenwei_43
+  rotate: false
+  xy: 712, 1076
+  size: 133, 145
+  orig: 133, 145
+  offset: 0, 0
+  index: -1
+Role_shenwei_44
+  rotate: false
+  xy: 42, 1171
+  size: 120, 74
+  orig: 120, 74
+  offset: 0, 0
+  index: -1
+Role_shenwei_45
+  rotate: false
+  xy: 59, 1682
+  size: 48, 17
+  orig: 48, 17
+  offset: 0, 0
+  index: -1
+Role_shenwei_46
+  rotate: false
+  xy: 1965, 1601
+  size: 79, 98
+  orig: 79, 98
+  offset: 0, 0
+  index: -1
+Role_shenwei_47
+  rotate: false
+  xy: 1715, 420
+  size: 134, 86
+  orig: 134, 86
+  offset: 0, 0
+  index: -1
+Role_shenwei_48
+  rotate: false
+  xy: 2, 1663
+  size: 56, 36
+  orig: 56, 36
+  offset: 0, 0
+  index: -1
+Role_shenwei_49
+  rotate: false
+  xy: 153, 1181
+  size: 59, 54
+  orig: 59, 54
+  offset: 0, 0
+  index: -1
+Role_shenwei_5
+  rotate: false
+  xy: 1101, 40
+  size: 297, 262
+  orig: 297, 262
+  offset: 0, 0
+  index: -1
+Role_shenwei_50
+  rotate: false
+  xy: 1335, 1616
+  size: 85, 83
+  orig: 85, 83
+  offset: 0, 0
+  index: -1
+Role_shenwei_51
+  rotate: false
+  xy: 937, 1159
+  size: 466, 540
+  orig: 466, 540
+  offset: 0, 0
+  index: -1
+Role_shenwei_52
+  rotate: true
+  xy: 491, 148
+  size: 120, 205
+  orig: 120, 205
+  offset: 0, 0
+  index: -1
+Role_shenwei_53
+  rotate: false
+  xy: 1668, 31
+  size: 110, 118
+  orig: 110, 118
+  offset: 0, 0
+  index: -1
+Role_shenwei_54
+  rotate: true
+  xy: 1799, 1242
+  size: 457, 236
+  orig: 457, 236
+  offset: 0, 0
+  index: -1
+Role_shenwei_55
+  rotate: false
+  xy: 21, 164
+  size: 328, 147
+  orig: 328, 147
+  offset: 0, 0
+  index: -1
+Role_shenwei_56
+  rotate: false
+  xy: 998, 530
+  size: 435, 264
+  orig: 435, 275
+  offset: 0, 11
+  index: -1
+Role_shenwei_57
+  rotate: true
+  xy: 2, 278
+  size: 345, 313
+  orig: 345, 313
+  offset: 0, 0
+  index: -1
+Role_shenwei_58
+  rotate: 270
+  xy: 907, 140
+  size: 196, 274
+  orig: 196, 274
+  offset: 0, 0
+  index: -1
+Role_shenwei_59
+  rotate: false
+  xy: 1576, 235
+  size: 470, 105
+  orig: 470, 105
+  offset: 0, 0
+  index: -1
+Role_shenwei_6
+  rotate: false
+  xy: 2, 1578
+  size: 268, 120
+  orig: 268, 120
+  offset: 0, 0
+  index: -1
+Role_shenwei_60
+  rotate: true
+  xy: 1680, 492
+  size: 290, 366
+  orig: 290, 366
+  offset: 0, 0
+  index: -1
+Role_shenwei_61
+  rotate: false
+  xy: 1069, 225
+  size: 198, 336
+  orig: 198, 336
+  offset: 0, 0
+  index: -1
+Role_shenwei_62
+  rotate: false
+  xy: 1799, 1198
+  size: 84, 168
+  orig: 84, 168
+  offset: 0, 0
+  index: -1
+Role_shenwei_63
+  rotate: false
+  xy: 2, 587
+  size: 484, 215
+  orig: 484, 215
+  offset: 0, 0
+  index: -1
+Role_shenwei_64
+  rotate: false
+  xy: 378, 265
+  size: 341, 397
+  orig: 341, 397
+  offset: 0, 0
+  index: -1
+Role_shenwei_65
+  rotate: false
+  xy: 2, 723
+  size: 436, 540
+  orig: 436, 540
+  offset: 0, 0
+  index: -1
+Role_shenwei_66
+  rotate: true
+  xy: 868, 985
+  size: 173, 282
+  orig: 181, 282
+  offset: 0, 0
+  index: -1
+Role_shenwei_67
+  rotate: false
+  xy: 2, 1179
+  size: 960, 519
+  orig: 960, 519
+  offset: 0, 0
+  index: -1
+Role_shenwei_68
+  rotate: 270
+  xy: 338, 818
+  size: 483, 540
+  orig: 483, 540
+  offset: 0, 0
+  index: -1
+Role_shenwei_69
+  rotate: false
+  xy: 1269, 457
+  size: 284, 162
+  orig: 284, 162
+  offset: 0, 0
+  index: -1
+Role_shenwei_7
+  rotate: false
+  xy: 1864, 111
+  size: 182, 117
+  orig: 182, 117
+  offset: 0, 0
+  index: -1
+Role_shenwei_72
+  rotate: false
+  xy: 1740, 649
+  size: 186, 268
+  orig: 186, 268
+  offset: 0, 0
+  index: -1
+Role_shenwei_75
+  rotate: 180
+  xy: 1392, 1158
+  size: 406, 541
+  orig: 406, 541
+  offset: 0, 0
+  index: -1
+Role_shenwei_77
+  rotate: 270
+  xy: 880, 759
+  size: 308, 540
+  orig: 308, 540
+  offset: 0, 0
+  index: -1
+Role_shenwei_78
+  rotate: false
+  xy: 957, 1507
+  size: 251, 192
+  orig: 251, 192
+  offset: 0, 0
+  index: -1
+Role_shenwei_79
+  rotate: false
+  xy: 1435, 672
+  size: 303, 270
+  orig: 303, 270
+  offset: 0, 0
+  index: -1
+Role_shenwei_8
+  rotate: true
+  xy: 1555, 303
+  size: 313, 448
+  orig: 313, 448
+  offset: 0, 0
+  index: -1
+Role_shenwei_80
+  rotate: false
+  xy: 1740, 919
+  size: 306, 270
+  orig: 306, 270
+  offset: 0, 0
+  index: -1
+Role_shenwei_81
+  rotate: false
+  xy: 785, 546
+  size: 176, 270
+  orig: 176, 270
+  offset: 0, 0
+  index: -1
+Role_shenwei_9
+  rotate: true
+  xy: 380, 486
+  size: 478, 403
+  orig: 478, 403
+  offset: 0, 0
+  index: -1
