@@ -20826,5 +20826,13 @@
   "rolecharacterbig/FannishaNormal03.png": {
     "width": 1000,
     "height": 1080
+  },
+  "uiautowindow/PosterMainV405.png": {
+    "width": 1920,
+    "height": 1080
+  },
+  "uiautowindow/PosterPvV404.png": {
+    "width": 1920,
+    "height": 1080
   }
 }
