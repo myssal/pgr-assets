@@ -1,0 +1,13 @@
+
+UiGachaSelenaMainBtLine2.png
+size: 24,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BtLine2
+  rotate: false
+  xy: 0, 0
+  size: 24, 104
+  orig: 24, 104
+  offset: 0, 0
+  index: -1
